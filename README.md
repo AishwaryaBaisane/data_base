@@ -20,7 +20,7 @@ CREATE TABLE "employee" (
 
 ## Add a new employee with all the details
 ```dart
-INSERT INTO employee(name,role,salary,age,address,phone) VALUES('Shalu Sharma','Sales',35000,18,'ParvatGam,Surat,',63524178394);
+INSERT INTO employee(name,role,salary,age,address,phone) VALUES('Aishawarya','Flutter Developer',100000,20,'201,dhruv Park Soc,surat',2538172972);
 ```
 ## Insert emloyees data
 - Add multiple employees with selective data:
@@ -80,4 +80,5 @@ DELETE FROM employee WHERE id = 3;
 ```dart
 DELETE FROM employee WHERE age <24;
 ```
-<img src  = "" height=40%  width=30%>
+<img src  = "https://github.com/user-attachments/assets/1444dca8-10b2-4f48-a3e3-7dd46a055ff0" height=40%  width=30%>
+
