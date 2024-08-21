@@ -72,7 +72,7 @@ UPDATE employee SET address = '201,dhruv Park Soc,surat' WHERE role  = 'Flutter 
 
 ## Remove an employee with ID 101:
 ```dart
-DELETE FROM employee WHERE id = 3;
+DELETE FROM employee WHERE id = 13;
 ```
 
 ## Delete all employees under 20 (assuming it's not a valid age).
