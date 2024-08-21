@@ -80,5 +80,6 @@ DELETE FROM employee WHERE id = 3;
 ```dart
 DELETE FROM employee WHERE age <24;
 ```
-<img src  = "https://github.com/user-attachments/assets/1444dca8-10b2-4f48-a3e3-7dd46a055ff0" height=40%  width=30%>
+<img src  = "https://github.com/user-attachments/assets/9ac0b7a2-ca2e-4186-873f-d77b08ed15b0" height=40%  width=30%>
+
 
