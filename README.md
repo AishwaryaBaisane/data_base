@@ -62,7 +62,7 @@ SELECT * FROM employee WHERE  (salary>25000)AND age>20;
 ```dart
 UPDATE employee
 SET salary = 50000
-WHERE id =1
+WHERE id =11
 ```
 ## Update the address for employees in the 'Flutter Devloper' role:
 
