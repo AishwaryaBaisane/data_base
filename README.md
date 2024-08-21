@@ -26,7 +26,7 @@ INSERT INTO employee(name,role,salary,age,address,phone) VALUES('Shalu Sharma','
 - Add multiple employees with selective data:
 ```dart
 INSERT INTO employee(name,role,salary,age,address,phone) VALUES ('Aishawarya','Flutter Developer',100000,20,'201,dhruv Park Soc,surat',2538172972);
-INSERT INTO employee(name,role,salary,age,address,phone) VALUES ('Prachi','Flutter Developer',50000,21,'',6501,shanti nagar , surat' , 361728134);
+INSERT INTO employee(name,role,salary,age,address,phone) VALUES ('Prachi','Flutter Developer',50000,21,'6501,shanti nagar , surat' , 361728134);
 INSERT INTO employee(name,role,salary,age,address,phone) VALUES ('Rahul','FullStack Develoer',60000,25,'167,Shree ji society,surat',1357278342);
 INSERT INTO employee(name,role,salary,age,address,phone) VALUES ('Devanshu','Ui-Ux Designer',80000,25,'100,Parvat Gam,surat',1362738274);
 INSERT INTO employee(name,role,salary,age,address,phone) VALUES ('Charmi','Ui-Ux Designer',90000,23,'502,ShivDarshan society,surat',136772883);
