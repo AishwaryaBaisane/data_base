@@ -44,7 +44,7 @@ SELECT  name,salary FROM employee WHERE name =name;
 ```
 ## Find employees with a particular role (e.g., Manager):
 ```dart
-SELECT  name,role FROM employee WHERE role ='manager';
+SELECT  name,role FROM employee WHERE role ='Flutter Devloper';
 ```
 
 ## Search for employees with names containing "An" (case-insensitive):
