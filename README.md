@@ -81,6 +81,6 @@ DELETE FROM employee WHERE id = 13;
 DELETE FROM employee WHERE age <24;
 ```
 <img src  = "https://github.com/user-attachments/assets/9ac0b7a2-ca2e-4186-873f-d77b08ed15b0" height=40%  width=30%>
-<img src  = "https://github.com/user-attachments/assets/9e446c1c-00d3-4c5d-bd07-f7a5080d38d1" height=80%  width=30%>
+<img src  = "https://github.com/user-attachments/assets/9e446c1c-00d3-4c5d-bd07-f7a5080d38d1" height=180%  width=30%>
 
 
